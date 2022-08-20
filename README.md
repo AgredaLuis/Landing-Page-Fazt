@@ -2,6 +2,8 @@
 
 # Practica de Landing Page , utilizando flexbox y Grid en el CSS , con un simple toggle en JS
 
+* Puedes ver el resultado final de la pagina visitando https://agredaluis.github.io/Landing-Page-Fazt/
+
 
 # Recomendations
 * Minimize the size of Images
